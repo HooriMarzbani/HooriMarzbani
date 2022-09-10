@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HooriMarzbani
 - 👀 I’m interested in Artificial intelligence, Mobile application and make Games.
 - 🌱 I’m currently learning Flutter framework and Unity framework
-- 💞
 - 📫 How to reach me hooriyehmarzbani@gmail.com
 
 
